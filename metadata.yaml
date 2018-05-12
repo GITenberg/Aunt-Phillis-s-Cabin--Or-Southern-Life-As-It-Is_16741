@@ -1,0 +1,42 @@
+_repo: Aunt-Phillis-s-Cabin--Or-Southern-Life-As-It-Is_16741
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eastman, Mary H. (Mary Henderson)
+    birthdate: 1818
+    deathdate: 1887
+    gutenberg_agent_id: '3682'
+    url: http://www.gutenberg.org/2009/agents/3682
+description: "Aunt Phillis's Cabin; or, Southern Life As It Is by Mary Henderson Eastman\
+  \ is a plantation fiction novel, and is perhaps the most read anti-Tom novel in\
+  \ American literature. It was published by Lippincott, Grambo & Co. of Philadelphia\
+  \ in 1852 as a response to Harriet Beecher Stowe's Uncle Tom's Cabin, published\
+  \ earlier that year. The novel sold 20,000–30,000 copies, making it a strong commercial\
+  \ success and bestseller. Based on her growing up in Warrenton, Virginia of an elite\
+  \ planter family, Eastman portrays plantation owners and slaves as mutually respectful,\
+  \ kind, and happy beings.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16741'
+  wikidata: Q4821989
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- Fiction'
+- !lcsh 'Plantation life -- Fiction'
+- !lcsh 'Slavery -- Fiction'
+- !lcsh 'Slaves -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'African American women -- Fiction'
+title: Aunt Phillis's Cabin; Or, Southern Life As It Is
+url: http://www.gutenberg.org/ebooks/16741
+wikipedia:
+- https://en.wikipedia.org/wiki/Aunt_Phillis%27s_Cabin
